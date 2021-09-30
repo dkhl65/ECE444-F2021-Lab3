@@ -16,3 +16,13 @@ Activity 2: Screenshot of repo
 Activity 3: Building docker image
 <br/>
 ![alt text](screenshots/Activity3.png?raw=true)
+<br/>
+<br/>
+Activity 4: Run docker image on localhost
+<br/>
+![alt text](screenshots/Activity4-localhost.png?raw=true)
+<br/>
+<br/>
+Activity 4: Docker image running from terminal
+<br/>
+![alt text](screenshots/Activity4-image.png?raw=true)
